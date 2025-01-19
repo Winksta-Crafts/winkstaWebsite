@@ -14,28 +14,28 @@ function PRODUCTSPAGE() {
                 </div>
 
                 <div class="product-category">
-                    <img id="category-img" loading="lazy" src="../../winksta_main_imgs/diamond braclet.jpg" />
+                    <img id="category-img" loading="lazy" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/diamond braclet.jpg" />
                     <div class="categoryname-holder">
                         <p class="category-name">Jewellery</p>
                     </div>
                 </div>
 
                 <div class="product-category">
-                    <img id="category-img" loading="lazy" src="../../winksta_main_imgs/card-inner-3.jpg" />
+                    <img id="category-img" loading="lazy" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/card-inner-3.jpg" />
                     <div class="categoryname-holder">
                         <p class="category-name">Cards</p>
                     </div>
                 </div>
 
                 <div class="product-category">
-                    <img id="category-img" loading="lazy" src="../../winksta_main_imgs/IMG_20240809_134752_132.jpg" />
+                    <img id="category-img" loading="lazy" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/IMG_20240809_134752_132.jpg" />
                     <div class="categoryname-holder">
                         <p class="category-name">Photo Frames</p>
                     </div>
                 </div>
 
                 <div class="product-category">
-                    <img id="category-img" loading="lazy" src="../../winksta_main_imgs/letter e.jpg" />
+                    <img id="category-img" loading="lazy" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/letter e.jpg" />
                     <div class="categoryname-holder">
                         <p class="category-name">Home Decor</p>
                     </div>
@@ -52,28 +52,28 @@ function PRODUCTSPAGE() {
                 </div>
 
                 <div class="product-category">
-                    <img id="category-img" loading="lazy" src="../../winksta_main_imgs/diamond braclet.jpg" />
+                    <img id="category-img" loading="lazy" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/diamond braclet.jpg" />
                     <div class="categoryname-holder">
                         <p class="category-name">Logos</p>
                     </div>
                 </div>
 
                 <div class="product-category">
-                    <img id="category-img" loading="lazy" src="../../winksta_main_imgs/card-inner-3.jpg" />
+                    <img id="category-img" loading="lazy" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/card-inner-3.jpg" />
                     <div class="categoryname-holder">
                         <p class="category-name">Business Cards</p>
                     </div>
                 </div>
 
                 <div class="product-category">
-                    <img id="category-img" loading="lazy" src="../../winksta_main_imgs/IMG_20240809_134752_132.jpg" />
+                    <img id="category-img" loading="lazy" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/IMG_20240809_134752_132.jpg" />
                     <div class="categoryname-holder">
                         <p class="category-name">Brochures & Banners</p>
                     </div>
                 </div>
 
                 <div class="product-category">
-                    <img id="category-img" loading="lazy" src="../../winksta_main_imgs/letter e.jpg" />
+                    <img id="category-img" loading="lazy" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/letter e.jpg" />
                     <div class="categoryname-holder">
                         <p class="category-name">Flyers / Posters</p>
                     </div>
@@ -85,7 +85,7 @@ function PRODUCTSPAGE() {
 
 <!--------------------------------products-header----------------------------------------------------------------->
         <div class="backbtn-container">
-            <img class="icons" id="backbtn" src="../../white_icons/small/angle-left.png" onclick="HOMEPAGE()" />
+            <img class="icons" id="backbtn" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/angle-left.png" onclick="HOMEPAGE()" />
             <h3 class="nav-sections">Products</h3>
         </div>
     `;

@@ -4,7 +4,7 @@ function ABOUTPAGE() {
 
             <div class="about-winksta">
                 <div class="logo-holder">
-                    <img id="logo-abt-page" src="../../Logos/winkstalogo.png" />
+                    <img id="logo-abt-page" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/winkstalogo.png" />
                 </div>
                 <div class="bio-text">
                     <h2 id="welcome-theme">Welcome to Winksta</h2>
@@ -25,7 +25,7 @@ function ABOUTPAGE() {
 
             <div class="bio-container">
                 <div class="name-holder">
-                    <img id="myname" src="../../my_pixz/MYNAMEBLUE.png" />
+                    <img id="myname" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/MYNAMEBLUE.png" />
                 </div>
                 <div class="bio-text">
                     <h2 id="welcome-theme">About Founder</h2>
@@ -43,19 +43,19 @@ function ABOUTPAGE() {
 
             <div class="bio-pics">
                 <div id="bio-image1">
-                    <img id="picture1" src="../../my_pixz/erous babe1.jpg" />
+                    <img id="picture1" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/erous babe1.jpg" />
                 </div>
                 <div id="bio-image1">
-                    <img id="picture1" src="../../my_pixz/Snapchat-2031364609.jpg" />
+                    <img id="picture1" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/Snapchat-2031364609.jpg" />
                 </div>
                 <div id="bio-image1">
-                    <img id="picture1" src="../../my_pixz/Snapchat-995534130.jpg" />
+                    <img id="picture1" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/Snapchat-995534130.jpg" />
                 </div>
             </div>
 
 <!--------------------------------about-header----------------------------------------------------------------->
             <div class="backbtn-container">
-                <img class="icons" id="backbtn" src="../../white_icons/small/angle-left.png" onclick="HOMEPAGE()" />
+                <img class="icons" id="backbtn" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/angle-left.png" onclick="HOMEPAGE()" />
                 <h3 class="nav-sections">About</h3>
             </div>
         </div>

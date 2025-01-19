@@ -30,7 +30,7 @@ function SERVICESPAGE() {
                     <hr id="horizontal-line">
 
                     <div class="rep-icon-holder">
-                        <img class="icons" id="rep-icon" src="../../white_icons/art.png" />
+                        <img class="icons" id="rep-icon" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/art.png" />
                     </div>
                 </div>
 
@@ -55,7 +55,7 @@ function SERVICESPAGE() {
                     <hr id="horizontal-line">
 
                     <div class="rep-icon-holder">
-                        <img class="icons" id="rep-icon" src="../../white_icons/graphicicon.png" />
+                        <img class="icons" id="rep-icon" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/graphicicon.png" />
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@ function SERVICESPAGE() {
 
     <!--------------------------------products-header----------------------------------------------------------------->
     <div class="backbtn-container">
-        <img class="icons" id="backbtn" src="../../white_icons/small/angle-left.png" onclick="HOMEPAGE()" />
+        <img class="icons" id="backbtn" src="https://winksta-crafts.github.io/winkstaWebsite/Assets/angle-left.png" onclick="HOMEPAGE()" />
         <h3 class="nav-sections">Services</h3>
     </div>
     `;
